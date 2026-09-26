@@ -1,0 +1,7 @@
+{
+  "name": "BioPunch - Biometric Attendance Timetable Reminder",
+  "description": "Offline-ready biometric attendance reminder that scans your timetable, vibrates for punch-in & punch-out, and logs lecture attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
